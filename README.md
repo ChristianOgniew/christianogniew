@@ -1,5 +1,6 @@
 - 👋 Hi, I'm @ChristianOgniew
-- 👁️‍🗨️ I'm interested in web & data programming
-- 🌱 I’m currently learning web developed
+- 📚 Audiovisual technician
+- 👁️‍🗨️ Actually interested in web & data programming
+- 🌱 Currently learning web developed
 - 👯 I’m looking to collaborate on new projects
-- 📫 How to reach me: christianogniew@gmail.com
+- 📧 How to reach me: christianogniew@gmail.com
